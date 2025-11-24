@@ -69,8 +69,6 @@ They didn't learn because the path was clear. They learned because it was stupid
 
 **Mobile phones?** Maybe 900,000 users by 2000, said McKinsey. (Actual: 108 million, 120 times more)
 
-**Vaccines?** Injecting cowpox into people? Religious leaders showed cartoons of vaccinated people growing cow heads. Against God's will, they said.
-
 **Every single one was considered stupid. Every single one changed the world.**
 
 The experts weren't just wrong. They were spectacularly, confidently, document-ably wrong. Because they were optimizing for "smart" when they should have been exploring "stupid."
