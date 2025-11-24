@@ -1,6 +1,7 @@
 # The STUPID Framework
 
 **A methodology for discovering breakthrough ideas by starting with deliberately bad ones.**
+Read our [Manifesto!](./MANIFESTO.md)
 > Also a coping mechanism for me to overcome the the urge of not wanting to work on a project because of how "stupid" it can be, which denies myself a learning experience.
 
 ---
