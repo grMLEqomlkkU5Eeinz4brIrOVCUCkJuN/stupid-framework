@@ -97,12 +97,6 @@ Throughout history, the most transformative innovations were dismissed as stupid
 **CRITICISM:** McKinsey predicted only 900,000 US users by 2000  
 **ACTUAL:** 108 million users by 2000 (120x more than predicted)
 
-### Vaccines (Late 1700s)
-**STUPID:** Injecting cowpox into healthy people to prevent smallpox  
-**CONTEXT:** Public health policy  
-**CRITICISM:** Religious leaders and press portrayed it as "against God's will," showed cartoons of people growing cow heads  
-**OUTCOME:** Eradicated smallpox, saved hundreds of millions of lives
-
 ---
 
 ### What These Have in Common
