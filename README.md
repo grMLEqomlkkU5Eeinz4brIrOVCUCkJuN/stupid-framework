@@ -7,7 +7,7 @@
 
 ## What is STUPID?
 
-The STUPID Framework is a creative thinking tool that transforms seemingly ridiculous ideas into genuine innovation by forcing you to examine *why* something seems wrong—and what value might hide beneath that wrongness.
+The STUPID Framework is a creative thinking tool that transforms seemingly ridiculous ideas into genuine innovation by forcing you to examine *why* something seems wrong and what value might hide beneath that wrongness.
 
 ---
 
@@ -147,10 +147,10 @@ Use STUPID to stress-test existing ideas:
 By giving yourself permission to be stupid, you disable the mental filter that kills ideas before they're fully formed.
 
 ### It reveals hidden assumptions
-The absurdity forces you to articulate *why* something seems wrong—often exposing unexamined beliefs about how things "should" work.
+The absurdity forces you to articulate *why* something seems wrong, often exposing unexamined beliefs about how things "should" work.
 
 ### It creates psychological safety
-When everyone's being intentionally stupid together, there's no such thing as a "bad" idea—which paradoxically leads to better ideas.
+When everyone's being intentionally stupid together, there's no such thing as a "bad" idea, which paradoxically leads to better ideas.
 
 ### It maps the innovation space
 By exploring the extremes (the stupidest possible version), you better understand the viable middle ground where real innovation lives.
@@ -171,14 +171,14 @@ By exploring the extremes (the stupidest possible version), you better understan
 
 **Do:**
 - Emphasize that "stupid" means *deliberately absurd*, not *offensive*
-- Encourage wild leaps—the worse the better
+- Encourage wild leaps, the worse the better
 - Celebrate the most ridiculous combinations
 - Push for specific Hidden Value, not vague benefits
 - Make Notable Problems honest and unflinching
 
 **Don't:**
 - Let people self-censor during STUPID LEAP
-- Accept "I don't know" for Hidden Value—dig deeper
+- Accept "I don't know" for Hidden Value, dig deeper
 - Skip Notable Problems to stay positive
 - Dismiss ideas because they seem too stupid (that's the point)
 
@@ -206,7 +206,7 @@ By exploring the extremes (the stupidest possible version), you better understan
 
 **STUPID CONTEXT:** Using only Excel spreadsheets and email
 
-**HIDDEN VALUE:** Forces you to solve every hard database problem manually and visibly—ACID transactions become literal email chains with "COMMIT" or "ROLLBACK" in the subject line, sharding becomes multiple spreadsheet files, replication means CC'ing everyone, consensus protocols become reply-all threads. Every abstraction that databases hide becomes painfully, hilariously obvious. You'd deeply understand why eventual consistency is hard, why distributed transactions are expensive, why indexes matter, and why CAP theorem isn't just theory. The stupidity makes the invisible visible.
+**HIDDEN VALUE:** Forces you to solve every hard database problem manually and visibly. For example: ACID transactions become literal email chains with "COMMIT" or "ROLLBACK" in the subject line, sharding becomes multiple spreadsheet files, replication means CC'ing everyone, consensus protocols become reply-all threads. Every abstraction that databases hide becomes painfully, hilariously obvious. You'd deeply understand why eventual consistency is hard, why distributed transactions are expensive, why indexes matter, and why CAP theorem isn't just theory. The stupidity makes the invisible visible.
 
 **NOTABLE PROBLEMS:** Absurdly slow (minutes per query), no concurrency control, email has no transactional guarantees, manual conflict resolution would be nightmarish, scales to maybe 3 users before collapsing, data loss guaranteed, version conflicts everywhere, completely impractical for any real use.
 
