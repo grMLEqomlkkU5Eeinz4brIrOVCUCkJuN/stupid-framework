@@ -237,9 +237,4 @@ And see what happens.
 
 ---
 
-**THE STUPID FRAMEWORK**  
-*Making Stupidity Useful Since 2024*
-
----
-
 *This manifesto is itself a stupid idea. We wrote it anyway. You're welcome.*
